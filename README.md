@@ -2,7 +2,7 @@
 
 A game built using Twine (Snowman 2.0.2) for ENGL378P at the University of Maryland.
 
-<a href="https://shannenlm.github.io/missed-messages/index.html">Play game</a>
+<a href="https://shannenlm.github.io/missed-messages">Play game</a>
 
 ## Overview 
 
