@@ -1,4 +1,4 @@
-# missed-messages
+# Missed Messages
 a game built using Twine Snowman 2.0.2
 
 ## Overview
